@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+transformers==4.36.2
+accelerate==0.25.0
+peft==0.7.1
+lime
+gradio==3.50.2
+openpyxl
+jupyter
+ipykernel
